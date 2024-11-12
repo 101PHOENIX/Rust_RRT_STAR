@@ -1,0 +1,9 @@
+[package]
+name = "rrt_rrt_star"
+version = "0.1.0"
+authors = ["Şerafettin Doruk SEZER <sdoruksezer@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4"
+rand = "0.8"
